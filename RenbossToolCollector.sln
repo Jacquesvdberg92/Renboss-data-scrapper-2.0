@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "RenbossToolCollector", "RenbossToolCollector\RenbossToolCollector.pyproj", "{041A4807-B202-474B-8BF2-E729319AE553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041A4807-B202-474B-8BF2-E729319AE553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041A4807-B202-474B-8BF2-E729319AE553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B016FD3F-62E6-46F7-BDA9-069467D84762}
+	EndGlobalSection
+EndGlobal
